@@ -1,1 +1,1 @@
-# firstcnn
+# A complete Convolutional Neural Network (CNN) implementation for image classification using TensorFlow and Keras. This project demonstrates a comprehensive machine learning pipeline from data preprocessing to model deployment, trained on the popular CIFAR-10 dataset. This CNN classifies images from the CIFAR-10 dataset into 10 different categories with high accuracy. The project includes both basic and advanced implementations, making it perfect for learning CNN fundamentals and exploring optimization techniques.
